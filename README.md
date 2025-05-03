@@ -26,3 +26,8 @@ To compile and run the program:
 g++ main.cpp -o matrix_calculator
 ./matrix_calculator
 
+🙋‍♂️ **Author**
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ | https://github.com/TAIMOURMUSHTAQ
+
